@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cfd347192b.selyo.cn/sitemap.xml

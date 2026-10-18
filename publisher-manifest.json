@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "32029086ebe6d8fa1c7c49b8",
+  "owner": "wunvevytv",
+  "repo": "page-13120aa716a47fb0b15b9095",
+  "title": "OneMore",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "13120aa716a47fb0b15b9095",
+      "a": "OneMore",
+      "b": "",
+      "entity": "OneMore",
+      "brand": "OneMore",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e03236ca63c39767373f7483d13d33600c32239444b31d462bc30a8dd57dda6e",
+      "content": {
+        "keyword1": "OneMore",
+        "keyword2": "",
+        "primary_entity": "OneMore",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "OneMore 提供清晰的流量套餐选择、多端设备管理与详尽的使用说明，助您高效处理网络连接与日常配置。",
+          "AI_DESCRIPTION": "OneMore 提供清晰的流量套餐选择、多端设备管理与详尽的使用说明，助您高效处理网络连接与日常配置。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #F9F6F0;--surface: #FFFFFF;--primary: #5A1827;--accent: #8C2D3D;--text: #2B2325;--muted: #6B5B61;--border: #D8C7C9}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 2rem 1rem}\nmain {max-width: 900px;margin: 0 auto}\nsection {margin-bottom: 4rem}\nh1 {font-size: 2.8rem;color: var(--primary);margin-bottom: 1rem;letter-spacing: -0.02em}\nh2 {font-size: 1.8rem;color: var(--primary);margin-bottom: 1.5rem;border-bottom: 2px solid var(--border);padding-bottom: 0.5rem}\nh3 {font-size: 1.2rem;color: var(--accent);margin-bottom: 0.5rem}\np {margin-bottom: 1rem;color: var(--muted)}\n.hero-timeline {position: relative;padding-left: 2rem;border-left: 2px dashed var(--accent)}\n.hero-step {position: relative;margin-bottom: 2rem}\n.hero-step::before {content: \"\";position: absolute;left: -2.4rem;top: 0.3rem;width: 12px;height: 12px;background-color: var(--primary);border-radius: 50%}\n.ticket-card {border: 2px dashed var(--border);background: var(--surface);padding: 2rem;margin-bottom: 1.5rem;position: relative}\n.ticket-card.featured {border-color: var(--accent);background: #FFFDFB}\n.ticket-card h3 {font-size: 1.5rem;color: var(--primary);margin-bottom: 0.5rem}\n.price {font-size: 2rem;color: var(--accent);font-weight: bold;margin-bottom: 1rem}\n.features-list {list-style: none;margin-bottom: 1.5rem}\n.features-list li {padding: 0.3rem 0;border-bottom: 1px solid var(--bg);color: var(--text);font-size: 0.95rem}\n.btn {display: inline-block;background: var(--primary);color: #fff;padding: 0.6rem 1.2rem;text-decoration: none;font-size: 0.9rem;font-weight: 500}\n.btn:hover {background: var(--accent)}\n.step-grid {display: grid;grid-template-columns: 1fr;gap: 1.5rem}\n@media(min-width: 600px) {\n  .step-grid {grid-template-columns: repeat(2, 1fr)}\n}\n.faq-group {margin-bottom: 2rem}\n.faq-item {background: var(--surface);border: 1px solid var(--border);padding: 1.2rem;margin-bottom: 1rem}\n.faq-item dt {font-weight: bold;color: var(--primary);margin-bottom: 0.5rem}\n.faq-item dd {color: var(--muted);font-size: 0.95rem}\n.quick-links {background: var(--surface);border: 1px solid var(--border);padding: 1rem;margin-bottom: 2rem;display: flex;gap: 1rem;flex-wrap: wrap}\n.quick-links a {color: var(--accent);text-decoration: none;font-weight: 500}\n.quick-links a:hover {text-decoration: underline}\n</style><main>\n  <nav class=\"quick-links\">\n    <a href=\"#overview\">服务概览</a>\n    <a href=\"#plans\">套餐选项</a>\n    <a href=\"#guide\">使用指南</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n\n  <section id=\"overview\">\n    <h1>OneMore</h1>\n    <p>以下为 OneMore 服务的演进与架构脉络，采用纵向时间线为您梳理平台服务阶段与设计准则。</p>\n    \n    <div class=\"hero-timeline\">\n      <div class=\"hero-step\">\n        <h3>阶段一：项目立项与基础架构</h3>\n        <p>确立了以务实清单为核心的服务准则，摒弃冗余功能，专注核心网络通道与多端设备稳定连接的底层调优。</p>\n      </div>\n      <div class=\"hero-step\">\n        <h3>阶段二：多端适配与协议扩展</h3>\n        <p>全面支持主流操作系统与客户端。优化节点路由策略，提升高并发环境下的吞吐表现与链路可靠性。</p>\n      </div>\n      <div class=\"hero-step\">\n        <h3>阶段三：分级服务与企业拓展</h3>\n        <p>根据不同应用场景推出基础版、旗舰版与团队版，满足个人日常、流媒体解锁及企业级专线定制的多样化需求。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>套餐选项</h2>\n    <p>以下方案按阶梯式递进排列，满足不同阶段与体量的使用需求。</p>\n\n    <div class=\"ticket-card\">\n      <h3>基础版</h3>\n      <div class=\"price\">¥15/月</div>\n      <p>按年付仅需 ¥150/年</p>\n      <ul class=\"features-list\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <a href=\"#\" class=\"btn\">选择基础版</a>\n    </div>\n\n    <div class=\"ticket-card featured\">\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35/月</div>\n      <p>按年付仅需 ¥350/年</p>\n      <ul class=\"features-list\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <a href=\"#\" class=\"btn\">选择旗舰版</a>\n    </div>\n\n    <div class=\"ticket-card\">\n      <h3>团队版</h3>\n      <div class=\"price\">¥85/月</div>\n      <p>按年付仅需 ¥850/年</p>\n      <ul class=\"features-list\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <a href=\"#\" class=\"btn\">选择团队版</a>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>使用指南</h2>\n    <p>遵循以下四个务实步骤，快速完成 OneMore 的配置与日常使用。</p>\n    \n    <div class=\"step-grid\">\n      <div class=\"ticket-card\">\n        <h3>01. 账户注册</h3>\n        <p>访问官方注册页面填写基本信息，完成邮箱验证后即可登录用户面板。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>02. 选择并开通套餐</h3>\n        <p>根据流量与设备数需求挑选对应方案完成订购，系统将即时开通相关权益。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>03. 导入订阅配置</h3>\n        <p>在用户面板复制专属订阅链接，将其导入至对应操作系统的推荐客户端中。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>04. 连通与日常维护</h3>\n        <p>选择所需线路节点建立连接。定期检查流量使用情况与客户端版本更新。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n\n    <div class=\"faq-group\">\n      <h3>账户与充值</h3>\n      <dl class=\"faq-item\">\n        <dt>如何修改账户密码？</dt>\n        <dd>登录用户面板后，前往“账户设置”页面即可进行密码重置与安全信息更新。</dd>\n      </dl>\n      <dl class=\"faq-item\">\n        <dt>支持哪些支付方式？</dt>\n        <dd>目前支持主流的在线支付方式，具体支付渠道可在结账页面查看实时可用选项。</dd>\n      </dl>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>使用与连接</h3>\n      <dl class=\"faq-item\">\n        <dt>提示流量耗尽该如何处理？</dt>\n        <dd>当月流量额度耗尽后，您可以在面板中选择购买流量叠加包或提前升级套餐层级。</dd>\n      </dl>\n      <dl class=\"faq-item\">\n        <dt>设备连接数量超限怎么办？</dt>\n        <dd>请检查当前在线设备数是否超出您所选套餐的限制，断开不需要连接的设备即可恢复正常。</dd>\n      </dl>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>售后与支持</h3>\n      <dl class=\"faq-item\">\n        <dt>遇到节点无法连接如何反馈？</dt>\n        <dd>您可以通过用户面板提交工单，描述您遇到的具体网络环境与错误代码，技术团队将及时跟进。</dd>\n      </dl>\n    </div>\n  </section>\n</main>",
+          "hash": "c04e5288a6b6e4ee5cb11c930278dcff8ebfaf39a9c04c1211ddaec95c5d25a9",
+          "seo": {
+            "title": "OneMore - 网络连接与多端管理服务指南",
+            "keywords": "OneMore, 网络连接, 设备管理, 流量套餐, 常见问题",
+            "description": "OneMore 提供清晰的流量套餐选择、多端设备管理与详尽的使用说明，助您高效处理网络连接与日常配置。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2357",
+            "hero": "6 纵向时间线引入",
+            "palette": "8 酒红配象牙白",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "selyo.cn",
+    "host": "p-cfd347192b.selyo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "80be5ab934d11fb6a5efa080cc4c730db7941fe77573917fb91c767d69200ec1",
+    "sitemap.xml": "b33541ea2a2aedec4317646ccf33bce2676d2afc0e770cf935250af51d8569ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18fd074de6d894621a4e52ee8989c814f38984235b9d44d71fba5c91f7a0de7f",
+    "robots.txt": "dec0d857032d27ef940aec906fbf232e8b40f615b1af69bfd7355f41f5b271e2",
+    "a3cf98f03a1be03e81f921ee1dfd4d32.txt": "eb0e21afaf4009949dffaadd27cc60b26ef00ad62e97877482582254c92cd56a"
+  },
+  "revision": "f6084fbb2f96c3ae4ee20d63de5e509e6178c440b9080a516721ce4db2d996d0"
+}
